@@ -8,10 +8,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.facebook.com/RinaniRita" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" alt="Facebook" width="40" height="40"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="Facebook" width="40" height="40" style="border-radius: 50%;"/>
   </a>
   <a href="https://www.instagram.com/rinani_rita/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" alt="Instagram" width="40" height="40"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" width="40" height="40" style="border-radius: 50%;"/>
   </a>
 </p>
 
