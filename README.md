@@ -2,7 +2,7 @@
 
 ### A passionate Python developer from Vietnam
 
-- 📫 How to reach me **minhhsgs.1@gmail.com**
+- 📫 How to reach me **minhhsgs.2@gmail.com**
 
 - 📄 Know about my experiences **[My resume](https://drive.google.com/drive/folders/16qall6is6ZkbzDCqLtAr-cf2fIFELgTA?usp=drive_link)**
 
