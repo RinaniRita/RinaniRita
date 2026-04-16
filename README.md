@@ -27,12 +27,6 @@
   </tr>
 </table>
 
----
-
-### 🏆 Native Achievements
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/badges?username=RinaniRita&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="Achievements" />
-</p>
 
 ---
 
