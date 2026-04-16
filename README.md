@@ -48,7 +48,7 @@
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
       <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
       <br/><br/>
-      <a href="https://github.com/RinaniRita"><b>View Project →</b></a>
+      <a href="https://github.com/duyanhehe/DESD_Group3"><b>View Project →</b></a>
     </td>
   </tr>
 </table>
@@ -65,7 +65,9 @@
     </td>
     <td align="center">
       <img src="https://img.shields.io/badge/AI%20%26%20Data-bb9af7?style=for-the-badge" /><br/>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,hf,mysql,sqlite,redis" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" /></a>
+      <a href="https://huggingface.co/"><img src="https://huggingface.co/front/assets/huggingface_logo.svg" height="48" style="vertical-align: top; margin: 0 2px" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,sqlite,redis" /></a>
     </td>
   </tr>
 </table>
