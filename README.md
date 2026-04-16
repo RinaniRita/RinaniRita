@@ -21,7 +21,7 @@
         <img src="https://img.shields.io/badge/Check%20out%20my%20Resume-7aa2f7?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
       </a>
     </td>
-    <td width="50%" valign="top">
+    <td width="50%" align="center" valign="middle">
       <img src="https://github-readme-stats.vercel.app/api?username=RinaniRita&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&count_private=true" alt="GitHub Stats" />
     </td>
   </tr>
