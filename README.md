@@ -1,18 +1,80 @@
-# Hi 👋, I'm Nguyen Nhat Minh
+# Hi there! 👋 I'm Nhat Minh
 
-### A passionate Python developer from Vietnam
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Python+Developer;AI+Engineer;Tech+Enthusiast;Problem+Solver" alt="Typing SVG" />
+</p>
 
-- 📫 How to reach me **minhhsgs.2@gmail.com**
+---
 
-- 📄 Know about my experiences **[My resume](https://drive.google.com/drive/folders/16qall6is6ZkbzDCqLtAr-cf2fIFELgTA?usp=drive_link)**
+### 🚀 About Me
 
-<h3 align="left">Connect with me:</h3>
+I am a passionate **Python Developer** and **AI Engineer** from Vietnam, dedicated to building intelligent solutions that bridge the gap between complex data and user-friendly applications. My work focuses on **LLMs**, **Agentic Workflows**, and **Robust Backend Systems**.
+
+- 🔭 I’m currently working on **AI Concierge Systems** and **RAG-based support agents**.
+- 🌱 I’m currently learning **Advanced MLOps** and **Scaling AI Infrastructures**.
+- 💬 Ask me about **FastAPI, Django, LLMs, and Python Optimization**.
+- 📫 How to reach me: **minhhsgs.2@gmail.com**
+- 📄 Know about my experiences: **[Check out my Resume](https://drive.google.com/drive/folders/16qall6is6ZkbzDCqLtAr-cf2fIFELgTA?usp=drive_link)**
+
+---
+
+### 🌟 Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[AI Concierge System](https://github.com/RinaniRita/AI-Agent-Based-Customer-Support-System-For-Hotel-Using-RAG)** | A production-ready AI agent for luxury hotels using RAG and multi-tool orchestration. | `Python`, `FastAPI`, `Redis`, `Gemini AI` |
+| **[Food Network Modernization](https://github.com/RinaniRita)** | Modern UI/UX refactor for a culinary platform with Tailwind CSS and advanced filtering. | `HTML`, `CSS`, `JS`, `Tailwind` |
+| **[Agentic Support Bot](https://github.com/RinaniRita)** | Lightweight tool-calling AI agent for streamlined customer interactions. | `Python`, `LangChain`, `LLMs` |
+
+---
+
+### 🛠 Tech Stack
+
+#### 💻 Programming Languages & Core
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,kotlin,js,html,css" />
+  </a>
+</p>
+
+#### 🧠 AI & Data Science
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,huggingface,mysql,sqlite" />
+  </a>
+</p>
+
+#### 🌐 Frameworks & Tools
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=fastapi,django,flask,bootstrap,docker,aws,linux,git,github,androidstudio" />
+  </a>
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RinaniRita&show_icons=true&theme=tokyonight&hide_border=true" alt="RinaniRita's GitHub Stats" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RinaniRita&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RinaniRita&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### 🤝 Connect with Me
+
 <p align="left">
 <a href="https://github.com/RinaniRita" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="RinaniRita" height="30" width="40" /></a>
 <a href="https://fb.com/RinaniRita" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="RinaniRita" height="30" width="40" /></a>
 <a href="https://instagram.com/rinani_rita" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rinani_rita" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/android" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="android" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/fastapi" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/huggingface" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/huggingface" alt="huggingface" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kotlin" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kotlin" alt="kotlin" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/openresty" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="openresty" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=RinaniRita&color=blue" alt="Profile Views" />
+</p>
 
