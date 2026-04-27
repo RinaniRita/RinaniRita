@@ -15,7 +15,7 @@
       <br/><br/>
       - 🔭 Currently working on <b>AI Concierge Systems</b>.
       - 🌱 Learning <b>Advanced MLOps</b> & <b>Infrastructure Scaling</b>.
-      - 📫 Contact: <b>minhhsgs.2@gmail.com</b>
+      - 📫 Contact: <b>minhhsgs.1@gmail.com</b>
       <br/><br/>
       <a href="https://drive.google.com/drive/folders/16qall6is6ZkbzDCqLtAr-cf2fIFELgTA?usp=drive_link">
         <img src="https://img.shields.io/badge/Check%20out%20my%20Resume-7aa2f7?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
