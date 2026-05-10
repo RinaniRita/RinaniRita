@@ -15,14 +15,14 @@
       <br/><br/>
       - 🔭 Currently working on <b>AI Concierge Systems</b>.
       - 🌱 Learning <b>Advanced MLOps</b> & <b>Infrastructure Scaling</b>.
-      - 📫 Contact: <b>minhhsgs.1@gmail.com</b>
+      - 📫 Contact: <b>minhhsgs.2@gmail.com</b>
       <br/><br/>
       <a href="https://drive.google.com/drive/folders/16qall6is6ZkbzDCqLtAr-cf2fIFELgTA?usp=drive_link">
         <img src="https://img.shields.io/badge/Check%20out%20my%20Resume-7aa2f7?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
       </a>
     </td>
     <td width="50%" align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api?username=RinaniRita&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&count_private=true" alt="GitHub Stats" />
+      <img src="https://github-readme-stats-one.vercel.app/api?username=RinaniRita&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&count_private=true" alt="GitHub Stats" />
     </td>
   </tr>
 </table>
@@ -82,7 +82,7 @@
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=RinaniRita&theme=tokyonight&hide_border=true&background=1a1b26" alt="Streak" />
     </td>
     <td align="center" width="33%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RinaniRita&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="Langs" />
+      <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=RinaniRita&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26" alt="Langs" />
     </td>
     <td align="center" width="33%">
        <img src="https://komarev.com/ghpvc/?username=RinaniRita&color=7aa2f7&style=flat-square&label=TERMINAL+VIEWS" alt="Views" />
